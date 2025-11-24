@@ -19,7 +19,7 @@ jobs:
               run: git update-index --chmod=+x ./.github/update-date.sh # if this line gives error, then run it locally
 
             - name: Update README
-              run: .github/update-date.sh
+              run: bash .github/update-date.sh
               shell: bash
 
             - name: Push Changes
