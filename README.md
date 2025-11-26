@@ -8,7 +8,7 @@
 
 取材自以下資源
 --------
-vite-g           
+vite-gh           
 https://github.com/warmachine028/vite-gh                                                                                                     
                                                                                                                                                            
 備註
