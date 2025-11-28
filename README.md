@@ -1,4 +1,4 @@
-    updated on: 27th November 2025, Thursday
+    updated on: 28th November 2025, Friday
 
 # vite-gh-demo
 
@@ -14,4 +14,4 @@ https://github.com/warmachine028/vite-gh
 備註
 --------
 圖片資源僅供學習交流之用, 請勿用於商業用途, 如有侵權請聯繫刪除, 謝謝   
-<!-- 27/11/25 -->
+<!-- 28/11/25 -->
